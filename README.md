@@ -22,9 +22,8 @@ As such, our work provides new insights into task-oriented attention in virtual 
 Ubuntu: 18.04;
 python 3.6+;
 pytorch 1.1.0+;
-cudatoolkit 10.0
+cudatoolkit 10.0;
 cudnn 7.6.5
-tensorboardX 1.8+;
 
 
 ## Usage:
