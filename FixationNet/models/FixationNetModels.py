@@ -1161,7 +1161,6 @@ class FixationNet_without_Gaze(nn.Module):
         prdFC_linearSize1 = 128
         prdFC_linearSize2 = self.clusterSize
         prdFC_dropoutRate = 0.5
-        # the prediction fc layer for DGaze.
         self.PrdFC = nn.Sequential(
             nn.Linear(prdFC_inputSize, prdFC_linearSize1),
             nn.BatchNorm1d(prdFC_linearSize1),
