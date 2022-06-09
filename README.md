@@ -21,7 +21,7 @@ As such, our work provides new insights into task-oriented attention in virtual 
 
 
 ## Environments:
-Ubuntu: 18.04  
+Ubuntu 18.04  
 python 3.6+  
 pytorch 1.1.0+  
 cudatoolkit 10.0  
