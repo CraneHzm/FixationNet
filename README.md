@@ -2,8 +2,10 @@
 Project homepage: https://cranehzm.github.io/FixationNet.
 
 
-This repository contains the source code of our model and some pre-trained models.
-The pre-trained models are saved in "FixationNet/checkpoint" directory and there are 48 models in total.
+'FixationNet' contains the source code of our model and some pre-trained models.  
+
+
+'FixationNet_Unity_Example' contains an example of running FixationNet model in Unity.
 
 
 ## Abstract
@@ -19,10 +21,10 @@ As such, our work provides new insights into task-oriented attention in virtual 
 
 
 ## Environments:
-Ubuntu: 18.04;
-python 3.6+;
-pytorch 1.1.0+;
-cudatoolkit 10.0;
+Ubuntu: 18.04  
+python 3.6+  
+pytorch 1.1.0+  
+cudatoolkit 10.0  
 cudnn 7.6.5
 
 
