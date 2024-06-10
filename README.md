@@ -34,3 +34,17 @@ Step 1: Download the dataset from our project homepage: https://cranehzm.github.
 Step 2: Run the script "run_FixationNet.sh" in "FixationNet/scripts" directory to retrain or test our model on our dataset.
 		Run the script "run_FixationNet_DGazeDataset.sh" in "FixationNet/scripts" directory to retrain or test our model on DGaze dataset.
 
+## Citation
+```bibtex
+@article{hu21_fixationnet,
+  author = {Hu, Zhiming and Bulling, Andreas and Li, Sheng and Wang, Guoping},
+  title = {FixationNet: Forecasting Eye Fixations in Task-Oriented Virtual Environments},
+  journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+  year = {2021},
+  doi = {10.1109/TVCG.2021.3067779},
+  pages = {2681--2690},
+  volume = {27},
+  number = {5},
+  url = {https://cranehzm.github.io/FixationNet.html}
+}
+```
