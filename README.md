@@ -36,7 +36,7 @@ Step 2: Run the script "run_FixationNet.sh" in "FixationNet/scripts" directory t
 
 ## Citation
 ```bibtex
-@article{hu21_fixationnet,
+@article{hu21fixationnet,
   author = {Hu, Zhiming and Bulling, Andreas and Li, Sheng and Wang, Guoping},
   title = {FixationNet: Forecasting Eye Fixations in Task-Oriented Virtual Environments},
   journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
