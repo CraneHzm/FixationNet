@@ -45,5 +45,4 @@ Step 2: Run the script "run_FixationNet.sh" in "FixationNet/scripts" directory t
 	pages={2681--2690},
 	year={2021},
 	publisher={IEEE}}
-}
 ```
